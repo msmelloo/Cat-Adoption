@@ -95,6 +95,15 @@ section legend {
     margin-bottom: 20px;
 }
 
+section button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
 hr {
     margin-bottom: 20px;
 }
